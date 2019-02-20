@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: microservicecloud-config-3344
+Bundle-SymbolicName: microservicecloud-config-3344
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.yejinhui.springcloud
