@@ -1,0 +1,48 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.yejinhui.springboot.bean.Person",
+      "name": "person",
+      "type": "com.yejinhui.springboot.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.yejinhui.springboot.bean.Person",
+      "name": "person.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yejinhui.springboot.bean.Person",
+      "name": "person.birth",
+      "type": "java.util.Date"
+    },
+    {
+      "sourceType": "com.yejinhui.springboot.bean.Person",
+      "name": "person.boss",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.yejinhui.springboot.bean.Person",
+      "name": "person.dog",
+      "type": "com.yejinhui.springboot.bean.Dog"
+    },
+    {
+      "sourceType": "com.yejinhui.springboot.bean.Person",
+      "name": "person.last-name",
+      "description": "<bean class=\"Person\">\n       <peroperty name=\"lastName\" value=\"瀛楅潰閲�\/${key}浠庣幆澧冨彉閲忋�侀厤缃枃浠朵腑鑾峰彇鍊�\/#{SpEL}\"><\/peroperty>\n <\/bean>",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.yejinhui.springboot.bean.Person",
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.Object>"
+    },
+    {
+      "sourceType": "com.yejinhui.springboot.bean.Person",
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>"
+    }
+  ]
+}
