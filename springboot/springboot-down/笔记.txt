@@ -1,0 +1,29 @@
+缓存默认使用的是同步的方式将结果缓存起来的
+维基百科、Stack Overflow、GitHub搜索引擎都是用的是elasticsearch
+单一应用架构		orm是关键
+垂直应用架构 		mvc是关键
+分布式服务架构		RPC是关键
+流动计算架构		SOA是关键(治理中心)
+
+Spring Cloud分布式开发五大常用组件：
+Eureka					服务发现
+Ribbon					负载均衡
+Hystrix					断路器
+Zuul					服务网关
+Spring Cloud Config 	分布式配置
+
+zookeeper+dubbo:notify是基于长连接的方式  服务提供者发生变化的时候可以将服务提供者列表推送给consumer
+zookeeper+dubbo:invoke如果调用失败，如果还有其他的服务提供者，会找其他的服务提供者并调用
+dubbo解决的是分布式服务之间调用问题
+springcloud是分布式的整体解决方案
+springcloud整合微服务的时候是通过轻量级http进行通信的
+我们在业务之外，更多的需要考虑技术实现原理，说句不道德的话，过分的考虑业务实现，对公司是有帮助的，对自己的帮助不大，剖析原理和源码这才是成为大神的必经之路
+devtools开发热部署：
+1、Build Project（idea中是ctrl+F9）xxx.java xxx.html都会重新编译
+2、pom.xml中引入
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-devtools</artifactId>
+		<optional>true</optional>
+	</dependency>
+	
