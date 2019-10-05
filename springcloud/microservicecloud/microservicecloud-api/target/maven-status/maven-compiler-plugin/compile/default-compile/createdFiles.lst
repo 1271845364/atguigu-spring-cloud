@@ -1,4 +1,0 @@
-com\yejinhui\springcloud\service\DeptClientService.class
-com\yejinhui\springcloud\service\DeptClientServiceFallbackFactory.class
-com\yejinhui\springcloud\entities\Dept.class
-com\yejinhui\springcloud\service\DeptClientServiceFallbackFactory$1.class
