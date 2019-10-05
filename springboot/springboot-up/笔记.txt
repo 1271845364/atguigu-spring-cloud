@@ -1,0 +1,45 @@
+每一个starter都是一个场景启动器
+每个日志的配置文件，默认是被相对应的日志框架所识别的
+导入中间包的时候一定要看下SpringBoot的官方文档，适配问题注意
+idea中修改html，并且applcation.properties中的#开发的时候禁用模板引擎的缓存spring.thymeleaf.cache=false，在修改的html中按住ctrl+F9可以重新编译
+防止表单重复提交的最好办法是重定向
+视图解析器的作用就是根据视图名得到视图对象
+
+SpringMVC中异常处理器
+@ControllerAdvice
+public class MyExceptionHandler {
+}
+Jetty（长连接的时候使用，例如点对点聊天）
+Undertow（不支持JSP，并发能力强，非阻塞的）
+IOC容器启动创建嵌入式的Servlet容器
+Docker是开源的应用容器引擎，做到了资源隔离，沙箱机制
+运行中的镜像称为容器（镜像的实例为容器），容器的启动是非常快的
+一个镜像可以启动多个容器
+Druid有成套的体系安全、监控
+springboot最强大的地方就在于把所有的场景都抽取成了starters
+
+学习技术的方法：
+1、看官方文档
+2、看源码（原理，掌握了原理才能运用自如）
+
+精髓：
+1、SpringBoot启动会加载大量的自动配置类
+2、我们看我们需要的功能有没有SpringBoot默认写好的自动配置类
+3、我们在来看这个自动配置类中到底配置了那些组件(只要我们用到的组件有，我们就不需要再来配置了)
+4、给容器中自动配置类添加组件的时候，会从properties类中获取某些属性。我们就可以在配置文件中指定这些属性的值
+自动配置类必须在一定条件下才能生效
+日志框架必备：异步模式、自动归档
+SpringBoot在配置很多组件的时候，先看容器中有没有用户自己配置的(@Bean、@Component)如果有就用用户配置的，
+如果没有，才自动没配置，如果有些组件可以有多个(ViewResolver)将用户配置的和自己默认的组合起来
+后置处理器：bean初始化前后(创建完对象，还没赋值)执行初始化操作
+docker 
+	主机(Host):安装docker程序的机器
+	客户端(Client):链接docker主机进行操作
+	仓库(Registry):保存各种打包好的镜像
+	镜像(Images):软件打包好的镜像，放在docker仓库中
+	容器(Container):镜像启动后的一个实例成为容器
+
+使用alibaba的Druid数据源，StatViewServlet配置一个管理后台的Servlet，配置一个web监控的Filter，Druid不仅仅是一个数据源，还集成了对站点的URL进行统计的功能
+集成mybatis，定制化配置ConfigurationCustomizer，设置成数据表为_分割，实体对象为驼峰的映射关系
+根据spring-boot-starter自定义xxx-spring-boot-starter，模仿mybatis-springb-boot-starter实践
+
