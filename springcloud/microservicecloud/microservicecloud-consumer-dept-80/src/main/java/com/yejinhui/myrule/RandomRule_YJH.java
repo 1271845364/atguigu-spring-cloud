@@ -1,12 +1,12 @@
 package com.yejinhui.myrule;
 
-import java.util.List;
-
 import com.netflix.client.config.IClientConfig;
 import com.netflix.loadbalancer.AbstractLoadBalancerRule;
 import com.netflix.loadbalancer.ILoadBalancer;
 import com.netflix.loadbalancer.Server;
-import com.netflix.servo.jsr166e.ThreadLocalRandom;
+
+import java.util.List;
+import java.util.concurrent.ThreadLocalRandom;
 
 /**
  * 问题：依旧轮询策略，但是加上新需求，每个服务器要求被调用5次。也即
