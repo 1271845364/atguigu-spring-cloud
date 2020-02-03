@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="766fe651-8df3-4bbc-b8a5-9d698832913c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JVMDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter01/chapter01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter01/src/com/yejinhui/java/StackStruTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/chapter02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/com/yejinhui/java/ClassInitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/com/yejinhui/java/ClinitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/com/yejinhui/java/ClinitTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/com/yejinhui/java/DeadThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/com/yejinhui/java/HelloApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/com/yejinhui/java/HelloLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/com/yejinhui/java1/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/com/yejinhui/java1/ClassLoaderTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/com/yejinhui/java1/ClassLoaderTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/com/yejinhui/java1/CustomClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/com/yejinhui/java1/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/java/lang/ShkStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/src/java/lang/String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter04/chapter04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter04/src/com/yejinhui/java/PCRegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/src/com/yejinhui/java/StackErrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/src/com/yejinhui/java/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/src/com/yejinhui/java1/DynamicLinkingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/src/com/yejinhui/java1/LocalVariablesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/src/com/yejinhui/java1/OperandStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/src/com/yejinhui/java1/StackFrameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/src/com/yejinhui/java2/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/src/com/yejinhui/java2/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/src/com/yejinhui/java2/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/src/com/yejinhui/java3/ReturnAddressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/src/com/yejinhui/java3/StringBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/src/com/yejinhui/java3/VirtualMethodTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter06/chapter06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter06/src/com/yejinhui/java/IHaveNatives.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JVMDemo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1X65pn26mWVlqyAQRm4HqxREMbF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowjclasslib.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/idea-workspace" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yejinhui.java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StringBuilderTest">
+    <configuration name="LocalVariablesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yejinhui.java1.LocalVariablesTest" />
+      <module name="chapter05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yejinhui.java1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Son" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yejinhui.java2.Son" />
+      <module name="chapter05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yejinhui.java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackErrorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yejinhui.java.StackErrorTest" />
+      <module name="chapter05" />
+      <option name="VM_PARAMETERS" value="-Xss256k" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yejinhui.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackFrameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yejinhui.java1.StackFrameTest" />
+      <module name="chapter05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yejinhui.java1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yejinhui.java3.StringBuilderTest" />
+      <module name="chapter05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yejinhui.java3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StackErrorTest" />
+      <item itemvalue="Application.StackFrameTest" />
+      <item itemvalue="Application.LocalVariablesTest" />
+      <item itemvalue="Application.Son" />
+      <item itemvalue="Application.StringBuilderTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringBuilderTest" />
+        <item itemvalue="Application.Son" />
+        <item itemvalue="Application.LocalVariablesTest" />
+        <item itemvalue="Application.StackFrameTest" />
+        <item itemvalue="Application.StackErrorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="766fe651-8df3-4bbc-b8a5-9d698832913c" name="Default Changelist" comment="" />
+      <created>1580353888943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580353888943</updated>
+      <workItem from="1580353894308" duration="6804000" />
+      <workItem from="1580389863229" duration="5339000" />
+      <workItem from="1580434566321" duration="14359000" />
+      <workItem from="1580520981432" duration="20179000" />
+      <workItem from="1580605270369" duration="5388000" />
+      <workItem from="1580625078165" duration="15528000" />
+      <workItem from="1580690185773" duration="3584000" />
+      <workItem from="1580724056396" duration="4381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Auto_Import" timestamp="1580545306018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Auto_Import/0.0.1366.728@0.0.1366.728" timestamp="1580545306018" />
+    <state x="275" y="22" key="#Notifications" timestamp="1580693385700">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1580693385700" />
+    <state x="275" y="22" key="#Project_Structure" timestamp="1580478487643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1580478487643" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580532180994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580532180994" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1580634034270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1580634034270" />
+    <state x="462" y="105" key="FileChooserDialogImpl" timestamp="1580736204962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580736204962" />
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1580655395526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580655395526" />
+    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1580655395525">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580655395525" />
+    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1580655395525">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580655395525" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1580655395526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580655395526" />
+    <state width="1323" height="233" key="GridCell.Tab.1.bottom" timestamp="1580655395516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="233" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580655395516" />
+    <state width="1323" height="233" key="GridCell.Tab.1.center" timestamp="1580655395515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="233" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580655395515" />
+    <state width="1323" height="233" key="GridCell.Tab.1.left" timestamp="1580655395515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="233" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580655395515" />
+    <state width="1323" height="233" key="GridCell.Tab.1.right" timestamp="1580655395515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="233" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580655395515" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1580734790580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580734790580" />
+    <state x="404" y="105" width="564" height="524" key="StructurePopup" timestamp="1580726910422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="105" width="564" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1580726910422" />
+    <state x="57" y="0" key="new project wizard" timestamp="1580736207911">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580736207911" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1580627716838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580627716838" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580726905257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580726905257" />
+    <state x="513" y="155" key="svn.repositoryBrowser" timestamp="1580694862864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="155" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1580694862864" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter05/src/com/yejinhui/java1/StackFrameTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter05/src/com/yejinhui/java1/StackFrameTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter05/src/com/yejinhui/java1/StackFrameTest.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter05/src/com/yejinhui/java1/StackFrameTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
