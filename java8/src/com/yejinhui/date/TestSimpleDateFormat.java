@@ -20,7 +20,7 @@ import org.junit.Test;
  */
 public class TestSimpleDateFormat {
 
-	/*
+	/**
 	 * 下面的存在多线程并发操作安全问题，可以加锁，使用threadLocal加锁
 	 */
 	public static void main(String[] args) throws Exception {
